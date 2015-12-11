@@ -1,0 +1,28 @@
+name: Hopfenkind
+favicon: null
+layout_spectrum: 0.5986883479636163
+typography_spectrum: 0.709421444684267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24548278283327818
+  lightness: 0.6371288606896996
+  saturation: 0.07958797947503626
+  rhythmicContrast: 0.24404493137262762
+purpose: []
